@@ -31,9 +31,13 @@ I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in O
   - GitHub ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## 🚀 Works
-- 🔭 I’m currently working on Automatic Facial Emotion Recognition System using Face Images under my Research and Development course.
+- 🔭 I’m currently working on Automatic Facial Emotion Recognition System ![FERs](https://github.com/sayakghorai34/sayakghorai34/assets/98743263/218cb2c4-014c-4e4c-a8b2-aae0a672d387) using Face Image ![face-image](https://github.com/sayakghorai34/sayakghorai34/assets/98743263/62a60833-1147-4a52-a4bf-4e892732c0fd) under my Research and Development course.
 - 🔭 I'm also working on building a real-time group video conferencing web app using MERN stack.
 - 👯 I’m looking to collaborate on more Machine Learning-based projects.
 
 ## 📫 Connect with Me
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sayak-ghorai-aab0a9211/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sayak-ghorai-aab0a9211/)<br>
+- Image Resources:
+- <a href="https://www.flaticon.com/free-icons/facial-recognition" title="FERs">Facial recognition icons created by Flat Icons - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/face-recognition" title="face-image">1. Face recognition icons created by Freepik - Flaticon</a>
+

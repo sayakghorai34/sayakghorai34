@@ -38,6 +38,6 @@ I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in O
 ## 📫 Connect with Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sayak-ghorai-aab0a9211/)<br>
 - Image Resources:
-- <a href="https://www.flaticon.com/free-icons/facial-recognition" title="FERs">Facial recognition icons created by Flat Icons - Flaticon</a>
-- <a href="https://www.flaticon.com/free-icons/face-recognition" title="face-image">1. Face recognition icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/facial-recognition" title="FERs">1. Facial recognition icons created by Flat Icons - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/face-recognition" title="face-image">2. Face recognition icons created by Freepik - Flaticon</a>
 

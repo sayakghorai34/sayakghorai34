@@ -2,6 +2,7 @@
 
 ## About Me
 I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in Object Oriented Programming, Artificial Intelligence, Machine Learning, and Natural Language Processing. Constantly curious and eager to learn, I enjoy exploring new technologies and solving problems.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sayakghorai34&label=Profile%20Views&color=0e75b6&style=flat" alt="<loading err: syakghorai34>" /> </p>
 
 ## 💼 Technical Skills
 - **Languages:**

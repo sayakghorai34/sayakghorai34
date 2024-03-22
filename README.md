@@ -4,7 +4,9 @@
 I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in Object Oriented Programming, Artificial Intelligence, Machine Learning, and Natural Language Processing. Constantly curious and eager to learn, I enjoy exploring new technologies and solving problems.
 
 ## 💼 Technical Skills
-- **Languages:** 
+- **Languages:**
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayakghorai34" alt="<loading err: sayakghorai34>" /></a> </p>
+  
   - Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -29,15 +31,22 @@ I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in O
 - **Version Control:** 
   - Git ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   - GitHub ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+    
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayakghorai34&show_icons=true&locale=en&layout=compact" alt="<loading err: sayakghorai34>" width="342" height="200"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayakghorai34&show_icons=true&locale=en" alt="<loading err: sayakghorai34>"  width="450" height="200"/>
+</div>
 
 ## 🚀 Works
 - 🔭 I’m currently working on Automatic Facial Emotion Recognition System ![FERs](https://github.com/sayakghorai34/sayakghorai34/assets/98743263/218cb2c4-014c-4e4c-a8b2-aae0a672d387) using Face Image ![face-image](https://github.com/sayakghorai34/sayakghorai34/assets/98743263/62a60833-1147-4a52-a4bf-4e892732c0fd) under my Research and Development course.
 - 🔭 I'm also working on building a real-time group video conferencing web app using MERN stack.
 - 👯 I’m looking to collaborate on more Machine Learning-based projects.
 
+
 ## 📫 Connect with Me
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sayak-ghorai-aab0a9211/)<br>
-- Image Resources:
+- **LinkedIn:** [https://www.linkedin.com/in/sayak-ghorai-aab0a9211/](https://www.linkedin.com/in/sayak-ghorai-aab0a9211/)
+- **Email:** <a href="mailto:sayakghorai34@gmail.com">sayakghorai34@gmail.com</a> /or/ <a href="mailto:sayak.ghorai21@st.niituniversity.in">sayak.ghorai21@st.niituniversity.in</a>
+## Image Resources
 - <a href="https://www.flaticon.com/free-icons/facial-recognition" title="FERs">1. Facial recognition icons created by Flat Icons - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/face-recognition" title="face-image">2. Face recognition icons created by Freepik - Flaticon</a>
 

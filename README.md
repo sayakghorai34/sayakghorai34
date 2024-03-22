@@ -6,7 +6,7 @@ I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in O
 
 ## 💼 Technical Skills
 - **Languages:**
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayakghorai34" alt="<loading err: sayakghorai34>" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayakghorai34" alt="<loading err: sayakghorai34>" height="27" width="132"/></a> </p>
   
   - Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)

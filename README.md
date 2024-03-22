@@ -2,11 +2,11 @@
 
 ## About Me
 I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in Object Oriented Programming, Artificial Intelligence, Machine Learning, and Natural Language Processing. Constantly curious and eager to learn, I enjoy exploring new technologies and solving problems.
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sayakghorai34&label=Profile%20Views&color=0e75b6&style=flat" alt="<loading err: syakghorai34>" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sayakghorai34&label=Profile%20Views&color=0e75b6&style=flat" alt="<loading err: syakghorai34>" height="27" width="132"/> </p>
 
 ## 💼 Technical Skills
 - **Languages:**
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayakghorai34" alt="<loading err: sayakghorai34>" height="27" width="132"/></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayakghorai34" alt="<loading err: sayakghorai34>" width="98%"/></a> </p>
   
   - Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -34,8 +34,8 @@ I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in O
   - GitHub ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
     
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayakghorai34&show_icons=true&locale=en&layout=compact" alt="<loading err: sayakghorai34>" width="342" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayakghorai34&show_icons=true&locale=en" alt="<loading err: sayakghorai34>"  width="450" height="200"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayakghorai34&show_icons=true&locale=en&layout=compact" alt="<loading err: sayakghorai34>" width="41%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayakghorai34&show_icons=true&locale=en" alt="<loading err: sayakghorai34>"  width="54%"/>
 </div>
 
 ## 🚀 Works

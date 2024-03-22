@@ -1,13 +1,13 @@
-# Hi there, I'm Sayak! 👋
-
-## About Me
-I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in Object Oriented Programming, Artificial Intelligence, Machine Learning, and Natural Language Processing. Constantly curious and eager to learn, I enjoy exploring new technologies and solving problems.
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sayakghorai34&label=Profile%20Views&abbreviated=true&color=0e75b6&style=flat" alt="<loading err: syakghorai34>" height="27" width="132"/> </p>
 
-## 💼 Technical Skills
+# Hi there, I'm Sayak! 👋
+## About Me:
+- I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in Object Oriented Programming, Artificial Intelligence, Machine Learning, and Natural Language Processing. Constantly curious and eager to learn, I enjoy exploring new technologies and solving problems.
+#
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5700&color=ffffff&size=23&multiline=flase&lines=💼+Technical+Skills:)](https://git.io/typing-svg)
+
 - **Languages:**
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayakghorai34" alt="<loading err: sayakghorai34>" width="98%"/></a> </p>
-  
   - Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - Java ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
   - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -38,16 +38,18 @@ I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in O
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayakghorai34&show_icons=true&locale=en" alt="<loading err: sayakghorai34>"  width="54%"/>
 </div>
 
-## 🚀 Works
+# 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=7000&color=ffffff&size=23&multiline=false&lines=🚀+Works:++++++++++++++)](https://git.io/typing-svg)
 - 🔭 I’m currently working on Automatic Facial Emotion Recognition System ![FERs](https://github.com/sayakghorai34/sayakghorai34/assets/98743263/218cb2c4-014c-4e4c-a8b2-aae0a672d387) using Face Image ![face-image](https://github.com/sayakghorai34/sayakghorai34/assets/98743263/62a60833-1147-4a52-a4bf-4e892732c0fd) under my Research and Development course.
 - 🔭 I'm also working on building a real-time group video conferencing web app using MERN stack.
 - 👯 I’m looking to collaborate on more Machine Learning-based projects.
-
-
-## 📫 Connect with Me
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=8000&color=ffffff&size=23&multiline=false&lines=📫+Connect+with+Me:++++++++++++++)](https://git.io/typing-svg)
 - **LinkedIn:** [https://www.linkedin.com/in/sayak-ghorai-aab0a9211/](https://www.linkedin.com/in/sayak-ghorai-aab0a9211/)
 - **Email:** <a href="mailto:sayakghorai34@gmail.com">sayakghorai34@gmail.com</a> /or/ <a href="mailto:sayak.ghorai21@st.niituniversity.in">sayak.ghorai21@st.niituniversity.in</a>
-## Image Resources
+
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=10000&color=ffffff&size=18&multiline=false&lines=Image+Resources:++++++++++++++)](https://git.io/typing-svg)
 - <a href="https://www.flaticon.com/free-icons/facial-recognition" title="FERs">1. Facial recognition icons created by Flat Icons - Flaticon</a>
 - <a href="https://www.flaticon.com/free-icons/face-recognition" title="face-image">2. Face recognition icons created by Freepik - Flaticon</a>
 

@@ -50,6 +50,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=8000&color=ffffff&size=23&multiline=false&lines=📫+Connect+with+Me:++++++++++++++)](https://git.io/typing-svg)
 - **LinkedIn:** [https://www.linkedin.com/in/sayak-ghorai-aab0a9211/](https://www.linkedin.com/in/sayak-ghorai-aab0a9211/)
 - **Email:** <a href="mailto:sayakghorai34@gmail.com">sayakghorai34@gmail.com</a> /or/ <a href="mailto:sayak.ghorai21@st.niituniversity.in">sayak.ghorai21@st.niituniversity.in</a>
+- **Kaggle:** <a href="https://www.kaggle.com/sayakghorai34">sayakghorai34</a>
 
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=10000&color=ffffff&size=18&multiline=false&lines=Image+Resources:++++++++++++++)](https://git.io/typing-svg)

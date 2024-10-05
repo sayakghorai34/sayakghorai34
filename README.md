@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sayak! 👋
 ## About Me:
-- I'm a 3rd year B.Tech Computer Science(AI) student with a strong foundation in Object Oriented Programming, Artificial Intelligence, Machine Learning, and Natural Language Processing. Constantly curious and eager to learn, I enjoy exploring new technologies and solving problems.
+- I'm a 4th year B.Tech Computer Science(AI) student with a strong foundation in Object Oriented Programming, Artificial Intelligence, Machine Learning, Computer Vision and Natural Language Processing. Constantly curious and eager to learn, I enjoy exploring new technologies and solving problems.
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5700&color=ffffff&size=23&multiline=flase&lines=🏆My+Trophy+Cabinet✨:)](https://git.io/typing-svg)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayakghorai34" alt="<loading err: syakghorai34>" width="98%"/></a> </p>

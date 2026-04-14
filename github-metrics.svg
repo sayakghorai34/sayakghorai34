@@ -59,7 +59,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── NOASSERTION
 
-<span class="diff">@@ -1.28k +3.74k @@</span>
+<span class="diff">@@ -0 +1 @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [################### ] 93.95%
 <b>HTML        </b> [#                   ] 2.57 %

@@ -50,7 +50,7 @@
   <b>   17</b> repositories starred
   <b>   32</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 362 repositories - 26.2 GB
+<div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 363 repositories - 26.2 GB
 -r--  <b>   24</b>  views
 -r--  <b>    8</b>  stargazers
 -r--  <b>    9</b>  forks
@@ -59,7 +59,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── NOASSERTION
 
-<span class="diff">@@ -0 +1 @@</span>
+<span class="diff">@@ -0 +0 @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [################### ] 93.95%
 <b>HTML        </b> [#                   ] 2.57 %

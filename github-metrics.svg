@@ -38,7 +38,7 @@
   followed by <b>8</b> users
 </div>
 <div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>   86</b> commits
+  <b>    6</b> commits
   <b>    0</b> pull requests reviewed
   <b>    1</b> pull request opened
   <b>    1</b> issue opened
@@ -50,7 +50,7 @@
   <b>   17</b> repositories starred
   <b>   32</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 384 repositories - NaN byte
+<div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 386 repositories - 26.7 GB
 -r--  <b>  293</b>  views
 -r--  <b>    8</b>  stargazers
 -r--  <b>    8</b>  forks

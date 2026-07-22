@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Sayak Ghorai</b> registered=4y, uid=3263, gid=0
-  contributed to 5 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 4 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>8</b> users
 </div>
 <div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
@@ -50,7 +50,7 @@
   <b>   17</b> repositories starred
   <b>   32</b> repositories watched
 </div>
-<div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 481 repositories - 29.3 GB
+<div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 478 repositories - 29.2 GB
 -r--  <b>   17</b>  views
 -r--  <b>    8</b>  stargazers
 -r--  <b>    8</b>  forks
@@ -59,7 +59,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -2.58k +20k @@</span>
+<span class="diff">@@ -1.50k +17.7k @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">sayakghorai34@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>JUPYTER NOTEBOOK</b> [################### ] 93.87%
 <b>HTML        </b> [#                   ] 2.57 %
